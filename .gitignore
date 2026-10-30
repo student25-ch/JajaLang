@@ -1,0 +1,8 @@
+build/
+jaa
+editor
+*.o
+*.out
+*~
+*.swp
+.DS_Store
